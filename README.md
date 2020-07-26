@@ -15,7 +15,13 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Getting Started
+## By ISMAIL CHAHBOUN
+
+## MOTIVATION FOR LEARN FLUTTER 
+This is work of my little brother (18 years old) while I teach him.
+PLAN => basic programming with easy language (python) => Learn feature of dart => Learn flutter structure => practices.
+
+## SCREENS
 Page 001
 ![Jpg](https://github.com/ourflutter/brothers/blob/master/Screens/001.jpg "Page 001")
 Page 002
